@@ -33,7 +33,7 @@ You can find the final version of the translated questionnaire [here](questionna
 |                | E-commerce                   | <100      |
 
 # Dimensions of Configuration
-![Dimensions of Configuration](/images/dimensions.svg "Dimensions of Configuration")
+![Dimensions of Configuration](/images/dimensions.png "Dimensions of Configuration")
 
 ## Related Work
 We placed related papers into the context of our model.

@@ -20,7 +20,7 @@ Which tools and frameworks do you use usually?
 
 ## Configuration
 
-How do you define *configuration*?
+How do you define configuration?
 
 When do you configure software?
 

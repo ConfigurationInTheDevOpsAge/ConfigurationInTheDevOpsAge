@@ -1,4 +1,4 @@
-# Configuration in the DevOps Age Questionnaire
+# Questionnaire
 
 ## General
 

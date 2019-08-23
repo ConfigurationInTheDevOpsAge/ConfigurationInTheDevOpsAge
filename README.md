@@ -1,5 +1,15 @@
+# Table of Contents
+1. [Interviews](#interviews)
+  * [Participants](#participants)
+  * [Companies](#companies)
+2. [Dimensions of Configuration](#dimensions-of-configuration)
+  * [Related Work)(#related-work)
+
 # Interviews
-We interviewed 11 participants from 9 different companies in semi-structured interviews.
+
+We interviewed 11 software developers from 9 different companies and domains
+in semi-structured interviews about the above mentioned aspects regarding 
+configuration tasksand issues in their daily work.
 You can find the final version of the translated questionnaire [here](questionnaire.md).
 
 ## Participants

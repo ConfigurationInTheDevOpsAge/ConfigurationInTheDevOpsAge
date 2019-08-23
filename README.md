@@ -35,5 +35,19 @@ You can find the final version of the translated questionnaire [here](questionna
 # Dimensions of Configuration
 ![Dimensions of Configuration](/images/dimensions.png "Dimensions of Configuration")
 
+**Who?**: Stakeholders
+
+**What?**: Types of configuration
+
+**When?**: Binding time
+
+**Which?**: Configuration artifacts
+
+**Where?**: Configuration environment
+
+**How?**: Configuration life cycle
+
+**Why?**: Intent for configuration
+
 ## Related Work
 We placed related papers into the context of our model.

@@ -3,7 +3,7 @@
   * [Participants](#participants)
   * [Companies](#companies)
 2. [Dimensions of Configuration](#dimensions-of-configuration)
-  * [Related Work)(#related-work)
+  * [Related Work](#related-work)
 
 # Interviews
 

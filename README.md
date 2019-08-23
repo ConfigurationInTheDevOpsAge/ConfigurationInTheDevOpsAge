@@ -60,7 +60,7 @@ You can find the final version of the translated questionnaire [here](questionna
 **Why?**: Intent for configuration
 
 ## Related Work
-We placed related papers into the context of our model.
+We placed 18 related papers into the context of our model. The first four can also be found in the paper.
 
 ### Software Configuration Engineering in Practice
 ![Dimensions of Software Configuration Engineering in Practice](/images/ska_18.png "Dimensions of Software Configuration Engineering in Practice")

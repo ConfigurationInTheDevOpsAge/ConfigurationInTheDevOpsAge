@@ -135,8 +135,7 @@ Changhai Nie and Hareton Leung. 2011. A Survey of Combinatorial Testing.
 Dongpu Jin, Xiao Qu, Myra B. Cohen, and Brian Robinson. 2014. Configurations
 Everywhere: Implications for Testing and Debugging in Practice. In Companion
 *Proceedings of the 36th International Conference on Software Engineering (ICSE
-Companion 2014)*. ACM, New York, NY, USA, 215–224. https://doi.org/10.1145/
-2591062.2591191
+Companion 2014)*. ACM, New York, NY, USA, 215–224. https://doi.org/10.1145/2591062.2591191
 
 ### An Empirical Study on Configuration Errors in Commercial and Open Source Systems
 ![Dimensions of An Empirical Study on Configuration Errors in Commercial and Open Source Systems](/images/yin_2011.png "Dimensions of An Empirical Study on Configuration Errors in Commercial and Open Source Systems")

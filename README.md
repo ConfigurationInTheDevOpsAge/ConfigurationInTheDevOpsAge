@@ -172,7 +172,7 @@ Symposium on Operating Systems Principles (SOSP)*. ACM, 159–172.
 Tianyin Xu and Yuanyuan Zhou. 2015. Systems Approaches to Tackling Configuration Errors: A Survey. *ACM Comput. Surv.* 47, 4, Article 70 (2015), 41 pages.
 
 ### Finding Near-optimal Configurations in Product Lines by Random Sampling
-![Dimensions of Finding Near-optimal Configurations in Product Lines by Random Sampling](/images/Oh2017-jl.png "Dimensions of Finding Near-optimal Configurations in Product Lines by Random Sampling")
+![Dimensions of Finding Near-optimal Configurations in Product Lines by Random Sampling](/images/oh2017-jl.png "Dimensions of Finding Near-optimal Configurations in Product Lines by Random Sampling")
 
 Jeho Oh, Don Batory, Margaret Myers, and Norbert Siegmund. 2017. Finding Near-
 optimal Configurations in Product Lines by Random Sampling. In *Proceedings

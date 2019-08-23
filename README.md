@@ -62,6 +62,34 @@ You can find the final version of the translated questionnaire [here](questionna
 ## Related Work
 We placed related papers into the context of our model.
 
+### Software Configuration Engineering in Practice
+![Dimensions of Software Configuration Engineering in Practice](/images/ska_18.png "Dimensions of Software Configuration Engineering in Practice")
+
+M. Sayagh, N. Kerzazi, B. Adams, and F. Petrillo. 2018. Software Configuration
+Engineering in Practice: Interviews, Survey, and Systematic Literature Review.
+*IEEE Transactions on Software Engineering* (2018).
+
+### On Cross-stack Configuration Errors
+![Dimensions of On Cross-stack Configuration Errors](/images/sayagh_2017.png "Dimensions of On Cross-stack Configuration Errors")
+
+Mohammed Sayagh, Noureddine Kerzazi, and Bram Adams. 2017. On Cross-stack
+Configuration Errors. In *Proceedings of the International Conference on Software
+Engineering (ICSE)*. IEEE Press, 255–265.
+
+### Faster discovery of faster system configurations with spectral learning
+![Dimensions of Faster discovery of faster system configurations with spectral learning](/images/nair2017-lr.png "Dimensions of Faster discovery of faster system configurations with spectral learning")
+
+Vivek Nair, Tim Menzies, Norbert Siegmund, and Sven Apel. 2017. Faster discovery of faster system configurations with spectral learning. *Autom Softw Eng*
+(Aug. 2017), 1–31.
+
+### Multi-purpose, multi-level feature modeling of large-scale industrial software systems
+![Dimensions of Multi-purpose, multi-level feature modeling of large-scale industrial software systems](/images/rabiser_2018.png "Dimensions of Multi-purpose, multi-level feature modeling of large-scale industrial software systems")
+
+Daniela Rabiser, Herbert Prähofer, Paul Grünbacher, Michael Petruzelka, Klaus
+Eder, Florian Angerer, Mario Kromoser, and Andreas Grimmer. 2018. Multi-
+purpose, multi-level feature modeling of large-scale industrial software systems.
+*Software & Systems Modeling* 17, 3 (01 Jul 2018), 913–938. https://doi.org/10.1007/s10270-016-0564-7
+
 ### An Analysis of the Variability in Forty Preprocessor-Based Software Product Lines
 ![Dimensions of An Analysis of the Variability in Forty Preprocessor-BasedSoftware Product Lines](/images/lalks_icse10.png "Dimensions of An Analysis of the Variability in Forty Preprocessor-BasedSoftware Product Lines")
 
@@ -91,13 +119,6 @@ Transactions on Software Engineering and Methodology (TOSEM)* 27, 4 (2018),
 Tianyin Xu and Darko Marinov. 2018. Mining Container Image Repositories for
 Software Configuration and Beyond. In *Proceedings of the International Conference
 on Software Engineering: New Ideas and Emerging Results (NIER)*. ACM, 49–52.
-
-### Software Configuration Engineering in Practice
-![Dimensions of Software Configuration Engineering in Practice](/images/ska_18.png "Dimensions of Software Configuration Engineering in Practice")
-
-M. Sayagh, N. Kerzazi, B. Adams, and F. Petrillo. 2018. Software Configuration
-Engineering in Practice: Interviews, Survey, and Systematic Literature Review.
-*IEEE Transactions on Software Engineering* (2018).
 
 ### DevOps: A Definition and Perceived Adoption Impediments
 ![Dimensions of DevOps: A Definition and Perceived Adoption Impediments](/images/smeds_2015.png "Dimensions of DevOps: A Definition and Perceived Adoption Impediments")
@@ -150,19 +171,6 @@ Symposium on Operating Systems Principles (SOSP)*. ACM, 159–172.
 
 Tianyin Xu and Yuanyuan Zhou. 2015. Systems Approaches to Tackling Configuration Errors: A Survey. *ACM Comput. Surv.* 47, 4, Article 70 (2015), 41 pages.
 
-### On Cross-stack Configuration Errors
-![Dimensions of On Cross-stack Configuration Errors](/images/sayagh_2017.png "Dimensions of On Cross-stack Configuration Errors")
-
-Mohammed Sayagh, Noureddine Kerzazi, and Bram Adams. 2017. On Cross-stack
-Configuration Errors. In *Proceedings of the International Conference on Software
-Engineering (ICSE)*. IEEE Press, 255–265.
-
-### Faster discovery of faster system configurations with spectral learning
-![Dimensions of Faster discovery of faster system configurations with spectral learning](/images/nair2017-lr.png "Dimensions of Faster discovery of faster system configurations with spectral learning")
-
-Vivek Nair, Tim Menzies, Norbert Siegmund, and Sven Apel. 2017. Faster discovery of faster system configurations with spectral learning. *Autom Softw Eng*
-(Aug. 2017), 1–31.
-
 ### Finding Near-optimal Configurations in Product Lines by Random Sampling
 ![Dimensions of Finding Near-optimal Configurations in Product Lines by Random Sampling](/images/Oh2017-jl.png "Dimensions of Finding Near-optimal Configurations in Product Lines by Random Sampling")
 
@@ -178,12 +186,3 @@ Thorsten Berger, Ralf Rublack, Divya Nair, Joanne M. Atlee, Martin Becker,
 Krzysztof Czarnecki, and Andrzej Wąsowski. 2013. A Survey of Variability Modeling in Industrial Practice. In *Proceedings of the Seventh International Workshop
 on Variability Modelling of Software-intensive Systems (VaMoS ’13)*. ACM, New
 York, NY, USA, Article 7, 8 pages. https://doi.org/10.1145/2430502.2430513
-
-
-### Multi-purpose, multi-level feature modeling of large-scale industrial software systems
-![Dimensions of Multi-purpose, multi-level feature modeling of large-scale industrial software systems](/images/rabiser_2018.png "Dimensions of Multi-purpose, multi-level feature modeling of large-scale industrial software systems")
-
-Daniela Rabiser, Herbert Prähofer, Paul Grünbacher, Michael Petruzelka, Klaus
-Eder, Florian Angerer, Mario Kromoser, and Andreas Grimmer. 2018. Multi-
-purpose, multi-level feature modeling of large-scale industrial software systems.
-*Software & Systems Modeling* 17, 3 (01 Jul 2018), 913–938. https://doi.org/10.1007/s10270-016-0564-7

@@ -1,5 +1,3 @@
-# Configuration in the DevOps Age
-
 ## Table of Contents
 1. [Interviews](#interviews)
    * [Participants](#participants)
